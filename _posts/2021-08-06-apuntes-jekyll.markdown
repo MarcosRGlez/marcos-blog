@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nueva Entrada"
+title:  "Apuntes Jekyll"
 date:   2021-08-06 09:48:00 +0200
 categories: programming
 ---
